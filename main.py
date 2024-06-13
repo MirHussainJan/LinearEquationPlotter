@@ -53,6 +53,7 @@ equation = input("Enter Equation (format: ax + by = c): ")
 x_val = np.arange(0, 20)
 
 print(listOfDigits(equation))
+print("From Feature1")
 print(x_val)
 
 # Fix: Evaluate slope for all x values
